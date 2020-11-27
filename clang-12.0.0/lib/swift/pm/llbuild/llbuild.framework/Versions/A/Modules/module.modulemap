@@ -1,0 +1,8 @@
+framework module "llbuild" {
+  umbrella header "llbuild.h"
+}
+
+module llbuild.Swift {
+    header "llbuild-Swift.h"
+    requires objc
+}

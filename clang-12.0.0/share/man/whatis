@@ -1,0 +1,236 @@
+DeRez(1)                 - decompiles resources (DEPRECATED)
+GetFileInfo(1), /usr/bin/GetFileInfo(1) - get attributes of files and directories (DEPRECATED)
+M4(1)                    - macro processor
+Mach-O(5)                - Mach-O assembler and link editor output
+Rez(1)                   - compiles resources (DEPRECATED)
+SetFile(1), /usr/bin/SetFile(1) - set attributes of files and directories (DEPRECATED)
+SplitForks(1), /usr/bin/SplitForks(1) - Divide a two-fork HFS file into AppleDouble format resource and data files. (DEPRECATED)
+ar(1)                    - create and maintain library archives
+ar(5)                    - archive (library) file format
+as(1)                    - Mac OS X Mach-O GNU-based assemblers
+asa(1)                   - interpret carriage-control characters
+bison(1)                 - GNU Project parser generator (yacc replacement)
+bitcode_strip(1)         - remove or leave the bitcode segment in a Mach-O file
+c89(1)                   - standard C language compiler
+c99(1)                   - standard C language compiler
+clang(1)                 - the Clang C, C++, and Objective-C compiler rst2man-indent-level 0 1 rstReportMargin \$1 \n[an-margin] level \n[rst2man-indent-level] level margin: \n[rst2man-indent\n[rst2man-indent-level]] - \n[rst2man-indent0] \n[rst2man-indent1] \n[rst2man-indent2] . 1 INDENT RS \$1 nr rst2man-indent\n[rst2man-indent-level] \n[an-margin] nr rst2man-indent-level +1 . UNINDENT RE rst2man-indent-level -1 \n[rst2man-indent\n[rst2man-indent-level]]u
+cmpdylib(1)              - compare two dynamic shared libraries for compatibility
+codesign_allocate(1)     - add code signing data to a Mach-O file
+ctags(1)                 - create a tags file
+ctf_insert(1)            - insert Compact C Type Format data into a mach_kernel file
+dsymutil(1)              - manipulate archived DWARF debug symbol files rst2man-indent-level 0 1 rstReportMargin \$1 \n[an-margin] level \n[rst2man-indent-level] level margin: \n[rst2man-indent\n[rst2man-indent-level]] - \n[rst2man-indent0] \n[rst2man-indent1] \n[rst2man-indent2] . 1 INDENT RS \$1 nr rst2man-indent\n[rst2man-indent-level] \n[an-margin] nr rst2man-indent-level +1 . UNINDENT RE rst2man-indent-level -1 \n[rst2man-indent\n[rst2man-indent-level]]u
+dwarfdump(1)             - dump and verify DWARF debug information rst2man-indent-level 0 1 rstReportMargin \$1 \n[an-margin] level \n[rst2man-indent-level] level margin: \n[rst2man-indent\n[rst2man-indent-level]] - \n[rst2man-indent0] \n[rst2man-indent1] \n[rst2man-indent2] . 1 INDENT RS \$1 nr rst2man-indent\n[rst2man-indent-level] \n[an-margin] nr rst2man-indent-level +1 . UNINDENT RE rst2man-indent-level -1 \n[rst2man-indent\n[rst2man-indent-level]]u
+dyldinfo(1)              - Displays information used by dyld in an executable
+flex(1)                  - the fast lexical analyser generator
+gatherheaderdoc(1)       - header documentation processor
+git(1)                   - the stupid content tracker
+git-add(1)               - Add file contents to the index
+git-am(1)                - Apply a series of patches from a mailbox
+git-annotate(1)          - Annotate file lines with commit information
+git-apply(1)             - Apply a patch to files and/or to the index
+git-archive(1)           - Create an archive of files from a named tree
+git-bisect(1)            - Use binary search to find the commit that introduced a bug
+git-blame(1)             - Show what revision and author last modified each line of a file
+git-branch(1)            - List, create, or delete branches
+git-bundle(1)            - Move objects and refs by archive
+git-cat-file(1)          - Provide content or type and size information for repository objects
+git-check-attr(1)        - Display gitattributes information
+git-check-ignore(1)      - Debug gitignore / exclude files
+git-check-mailmap(1)     - Show canonical names and email addresses of contacts
+git-check-ref-format(1)  - Ensures that a reference name is well formed
+git-checkout(1)          - Switch branches or restore working tree files
+git-checkout-index(1)    - Copy files from the index to the working tree
+git-cherry(1)            - Find commits yet to be applied to upstream
+git-cherry-pick(1)       - Apply the changes introduced by some existing commits
+git-citool(1)            - Graphical alternative to git-commit
+git-clean(1)             - Remove untracked files from the working tree
+git-clone(1)             - Clone a repository into a new directory
+git-column(1)            - Display data in columns
+git-commit(1)            - Record changes to the repository
+git-commit-graph(1)      - Write and verify Git commit-graph files
+git-commit-tree(1)       - Create a new commit object
+git-config(1)            - Get and set repository or global options
+git-count-objects(1)     - Count unpacked number of objects and their disk consumption
+git-credential(1)        - Retrieve and store user credentials
+git-credential-cache(1)  - Helper to temporarily store passwords in memory
+git-credential-cache--daemon(1) - Temporarily store user credentials in memory
+git-credential-store(1)  - Helper to store credentials on disk
+git-daemon(1)            - A really simple server for Git repositories
+git-describe(1)          - Give an object a human readable name based on an available ref
+git-diff(1)              - Show changes between commits, commit and working tree, etc
+git-diff-files(1)        - Compares files in the working tree and the index
+git-diff-index(1)        - Compare a tree to the working tree or index
+git-diff-tree(1)         - Compares the content and mode of blobs found via two tree objects
+git-difftool(1)          - Show changes using common diff tools
+git-fast-export(1)       - Git data exporter
+git-fast-import(1)       - Backend for fast Git data importers
+git-fetch(1)             - Download objects and refs from another repository
+git-fetch-pack(1)        - Receive missing objects from another repository
+git-filter-branch(1)     - Rewrite branches
+git-fmt-merge-msg(1)     - Produce a merge commit message
+git-for-each-ref(1)      - Output information on each ref
+git-format-patch(1)      - Prepare patches for e-mail submission
+git-fsck(1)              - Verifies the connectivity and validity of the objects in the database
+git-fsck-objects(1)      - Verifies the connectivity and validity of the objects in the database
+git-gc(1)                - Cleanup unnecessary files and optimize the local repository
+git-get-tar-commit-id(1) - Extract commit ID from an archive created using git-archive
+git-grep(1)              - Print lines matching a pattern
+git-hash-object(1)       - Compute object ID and optionally creates a blob from a file
+git-help(1)              - Display help information about Git
+git-http-backend(1)      - Server side implementation of Git over HTTP
+git-http-fetch(1)        - Download from a remote Git repository via HTTP
+git-http-push(1)         - Push objects over HTTP/DAV to another repository
+git-imap-send(1)         - Send a collection of patches from stdin to an IMAP folder
+git-index-pack(1)        - Build pack index file for an existing packed archive
+git-init(1)              - Create an empty Git repository or reinitialize an existing one
+git-init-db(1)           - Creates an empty Git repository
+git-instaweb(1)          - Instantly browse your working repository in gitweb
+git-interpret-trailers(1) - Add or parse structured information in commit messages
+git-log(1)               - Show commit logs
+git-ls-files(1)          - Show information about files in the index and the working tree
+git-ls-remote(1)         - List references in a remote repository
+git-ls-tree(1)           - List the contents of a tree object
+git-mailinfo(1)          - Extracts patch and authorship from a single e-mail message
+git-mailsplit(1)         - Simple UNIX mbox splitter program
+git-merge(1)             - Join two or more development histories together
+git-merge-base(1)        - Find as good common ancestors as possible for a merge
+git-merge-file(1)        - Run a three-way file merge
+git-merge-index(1)       - Run a merge for files needing merging
+git-merge-one-file(1)    - The standard helper program to use with git-merge-index
+git-merge-tree(1)        - Show three-way merge without touching index
+git-mergetool(1)         - Run merge conflict resolution tools to resolve merge conflicts
+git-mergetool--lib(1)    - Common Git merge tool shell scriptlets
+git-mktag(1)             - Creates a tag object
+git-mktree(1)            - Build a tree-object from ls-tree formatted text
+git-multi-pack-index(1)  - Write and verify multi-pack-indexes
+git-mv(1)                - Move or rename a file, a directory, or a symlink
+git-name-rev(1)          - Find symbolic names for given revs
+git-notes(1)             - Add or inspect object notes
+git-p4(1)                - Import from and submit to Perforce repositories
+git-pack-objects(1)      - Create a packed archive of objects
+git-pack-redundant(1)    - Find redundant pack files
+git-pack-refs(1)         - Pack heads and tags for efficient repository access
+git-parse-remote(1)      - Routines to help parsing remote repository access parameters
+git-patch-id(1)          - Compute unique ID for a patch
+git-prune(1)             - Prune all unreachable objects from the object database
+git-prune-packed(1)      - Remove extra objects that are already in pack files
+git-pull(1)              - Fetch from and integrate with another repository or a local branch
+git-push(1)              - Update remote refs along with associated objects
+git-quiltimport(1)       - Applies a quilt patchset onto the current branch
+git-range-diff(1)        - Compare two commit ranges (e.g. two versions of a branch)
+git-read-tree(1)         - Reads tree information into the index
+git-rebase(1)            - Reapply commits on top of another base tip
+git-receive-pack(1)      - Receive what is pushed into the repository
+git-reflog(1)            - Manage reflog information
+git-remote(1)            - Manage set of tracked repositories
+git-remote-ext(1)        - Bridge smart transport to external command
+git-remote-fd(1)         - Reflect smart transport stream back to caller
+git-repack(1)            - Pack unpacked objects in a repository
+git-replace(1)           - Create, list, delete refs to replace objects
+git-request-pull(1)      - Generates a summary of pending changes
+git-rerere(1)            - Reuse recorded resolution of conflicted merges
+git-reset(1)             - Reset current HEAD to the specified state
+git-restore(1)           - Restore working tree files
+git-rev-list(1)          - Lists commit objects in reverse chronological order
+git-rev-parse(1)         - Pick out and massage parameters
+git-revert(1)            - Revert some existing commits
+git-rm(1)                - Remove files from the working tree and from the index
+git-send-email(1)        - Send a collection of patches as emails
+git-send-pack(1)         - Push objects over Git protocol to another repository
+git-sh-i18n(1)           - Git(aqs i18n setup code for shell scripts
+git-sh-i18n--envsubst(1) - Git(aqs own envsubst(1) for i18n fallbacks
+git-sh-setup(1)          - Common Git shell script setup code
+git-shell(1)             - Restricted login shell for Git-only SSH access
+git-shortlog(1)          - Summarize (aqgit log(aq output
+git-show(1)              - Show various types of objects
+git-show-branch(1)       - Show branches and their commits
+git-show-index(1)        - Show packed archive index
+git-show-ref(1)          - List references in a local repository
+git-stage(1)             - Add file contents to the staging area
+git-stash(1)             - Stash the changes in a dirty working directory away
+git-status(1)            - Show the working tree status
+git-stripspace(1)        - Remove unnecessary whitespace
+git-submodule(1)         - Initialize, update or inspect submodules
+git-svn(1)               - Bidirectional operation between a Subversion repository and Git
+git-switch(1)            - Switch branches
+git-symbolic-ref(1)      - Read, modify and delete symbolic refs
+git-tag(1)               - Create, list, delete or verify a tag object signed with GPG
+git-unpack-file(1)       - Creates a temporary file with a blob(aqs contents
+git-unpack-objects(1)    - Unpack objects from a packed archive
+git-update-index(1)      - Register file contents in the working tree to the index
+git-update-ref(1)        - Update the object name stored in a ref safely
+git-update-server-info(1) - Update auxiliary info file to help dumb servers
+git-upload-archive(1)    - Send archive back to git-archive
+git-upload-pack(1)       - Send objects packed back to git-fetch-pack
+git-var(1)               - Show a Git logical variable
+git-verify-commit(1)     - Check the GPG signature of commits
+git-verify-pack(1)       - Validate packed Git archive files
+git-verify-tag(1)        - Check the GPG signature of tags
+git-web--browse(1)       - Git helper script to launch a web browser
+git-whatchanged(1)       - Show logs with difference each commit introduces
+git-worktree(1)          - Manage multiple working trees
+git-write-tree(1)        - Create a tree object from the current index
+gitattributes(5)         - Defining attributes per path
+gitcli(7)                - Git command-line interface and conventions
+gitcore-tutorial(7)      - A Git core tutorial for developers
+gitcredentials(7)        - providing usernames and passwords to Git
+gitdiffcore(7)           - Tweaking diff output
+giteveryday(7)           - A useful minimum set of commands for Everyday Git
+gitglossary(7)           - A Git Glossary
+githooks(5)              - Hooks used by Git
+gitignore(5)             - Specifies intentionally untracked files to ignore
+gitmodules(5)            - Defining submodule properties
+gitnamespaces(7)         - Git namespaces
+gitremote-helpers(7)     - Helper programs to interact with remote repositories
+gitrepository-layout(5)  - Git Repository Layout
+gitrevisions(7)          - Specifying revisions and ranges for Git
+gitsubmodules(7)         - mounting one repository inside another
+gittutorial(7)           - A tutorial introduction to Git
+gittutorial-2(7)         - A tutorial introduction to Git: part two
+gitweb(1)                - Git web interface (web frontend to Git repositories)
+gitweb.conf(5)           - Gitweb (Git web interface) configuration file
+gitworkflows(7)          - An overview of recommended workflows with Git
+gperf(1)                 - manual page for gperf 3.0.3
+hdxml2manxml(1)          - HeaderDoc XML to MPGL translator
+headerdoc2html(1)        - header documentation processor
+indent(1)                - indent and format C program source
+install_name_tool(1)     - change dynamic shared library install names
+ld(1)                    - linker
+libtool(1)               - create libraries ranlib - add or update the table of contents of archive libraries
+lipo(1)                  - create or operate on universal files
+lldb(1)                  - LLDB Documentation rst2man-indent-level 0 1 rstReportMargin \$1 \n[an-margin] level \n[rst2man-indent-level] level margin: \n[rst2man-indent\n[rst2man-indent-level]] - \n[rst2man-indent0] \n[rst2man-indent1] \n[rst2man-indent2] . 1 INDENT RS \$1 nr rst2man-indent\n[rst2man-indent-level] \n[an-margin] nr rst2man-indent-level +1 . UNINDENT RE rst2man-indent-level -1 \n[rst2man-indent\n[rst2man-indent-level]]u
+llvm-cov(1)              - emit coverage information rst2man-indent-level 0 1 rstReportMargin \$1 \n[an-margin] level \n[rst2man-indent-level] level margin: \n[rst2man-indent\n[rst2man-indent-level]] - \n[rst2man-indent0] \n[rst2man-indent1] \n[rst2man-indent2] . 1 INDENT RS \$1 nr rst2man-indent\n[rst2man-indent-level] \n[an-margin] nr rst2man-indent-level +1 . UNINDENT RE rst2man-indent-level -1 \n[rst2man-indent\n[rst2man-indent-level]]u
+llvm-cxxfilt(1)          - a symbol demangler rst2man-indent-level 0 1 rstReportMargin \$1 \n[an-margin] level \n[rst2man-indent-level] level margin: \n[rst2man-indent\n[rst2man-indent-level]] - \n[rst2man-indent0] \n[rst2man-indent1] \n[rst2man-indent2] . 1 INDENT RS \$1 nr rst2man-indent\n[rst2man-indent-level] \n[an-margin] nr rst2man-indent-level +1 . UNINDENT RE rst2man-indent-level -1 \n[rst2man-indent\n[rst2man-indent-level]]u . # llvm-cxxfilt - a symbol demangler ## SYNOPSIS llvm-cxxfilt [options] ## DESCRIPTION llvm-cxxfilt is symbol demangler that can be used as a replacement for the GNU c++filt tool
+llvm-nm(1)               - list LLVM bitcode and object file's symbol table rst2man-indent-level 0 1 rstReportMargin \$1 \n[an-margin] level \n[rst2man-indent-level] level margin: \n[rst2man-indent\n[rst2man-indent-level]] - \n[rst2man-indent0] \n[rst2man-indent1] \n[rst2man-indent2] . 1 INDENT RS \$1 nr rst2man-indent\n[rst2man-indent-level] \n[an-margin] nr rst2man-indent-level +1 . UNINDENT RE rst2man-indent-level -1 \n[rst2man-indent\n[rst2man-indent-level]]u
+llvm-objdump(1)          - LLVM's object file dumper rst2man-indent-level 0 1 rstReportMargin \$1 \n[an-margin] level \n[rst2man-indent-level] level margin: \n[rst2man-indent\n[rst2man-indent-level]] - \n[rst2man-indent0] \n[rst2man-indent1] \n[rst2man-indent2] . 1 INDENT RS \$1 nr rst2man-indent\n[rst2man-indent-level] \n[an-margin] nr rst2man-indent-level +1 . UNINDENT RE rst2man-indent-level -1 \n[rst2man-indent\n[rst2man-indent-level]]u
+llvm-otool(1)            - the otool-compatible command line parser for llvm-objdump
+llvm-profdata(1)         - Profile data tool rst2man-indent-level 0 1 rstReportMargin \$1 \n[an-margin] level \n[rst2man-indent-level] level margin: \n[rst2man-indent\n[rst2man-indent-level]] - \n[rst2man-indent0] \n[rst2man-indent1] \n[rst2man-indent2] . 1 INDENT RS \$1 nr rst2man-indent\n[rst2man-indent-level] \n[an-margin] nr rst2man-indent-level +1 . UNINDENT RE rst2man-indent-level -1 \n[rst2man-indent\n[rst2man-indent-level]]u
+lorder(1)                - list dependencies for object files
+make(1)                  - GNU make utility to maintain groups of programs
+mig(1)                   - Mach Interface Generator
+migcom(1)                - Mach Interface Generator COMpiler
+nm(1)                    - display name list (symbol table)
+nmedit(1)                - change global symbols to local symbols
+otool-classic(1)         - object file displaying tool
+pagestuff(1)             - Mach-O file page analysis tool
+ranlib(5)                - archive (library) table-of-contents format
+resolveLinks(1)          - Resolves link requests in collections of HTML files
+rpcgen(1)                - Remote Procedure Call (RPC) protocol compiler
+segedit(1)               - extract and replace sections from object files
+size(1)                  - print the size of the sections in an object file
+stab(5)                  - symbol table types
+stapler(1)               - Attach and validate tickets for notarized executables
+strings(1)               - find the printable strings in a object, or other binary, file
+strip(1)                 - remove symbols
+swift(1)                 - -- Safe, fast, and expressive general-purpose programming language
+tapi(1)                  - Text-based Stubs Tool
+tapi-archive(1)          - Merge or thin text-based stub files
+tapi-installapi(1)       - Create a text-based stub file by scanning the header files
+tapi-reexport(1)         - Create a linker reexport file by scanning the header files
+tapi-stubify(1)          - Create a text-based stub file from a library
+unifdef(1), unifdefall(1) - remove preprocessor conditionals from code
+unwinddump(1)            - Displays compact unwind information in an executable
+vtool(1)                 - Mach-O version number utility
+xcrun(1)                 - Run or locate development tools and properties. rst2man-indent-level 0 1 rstReportMargin \$1 \n[an-margin] level \n[rst2man-indent-level] level margin: \n[rst2man-indent\n[rst2man-indent-level]] - \n[rst2man-indent0] \n[rst2man-indent1] \n[rst2man-indent2] . 1 INDENT RS \$1 nr rst2man-indent\n[rst2man-indent-level] \n[an-margin] nr rst2man-indent-level +1 . UNINDENT RE rst2man-indent-level -1 \n[rst2man-indent\n[rst2man-indent-level]]u
+xml2man(1)               - MPGL to mdoc (man page) translator
+yacc(1)                  - parser generator
